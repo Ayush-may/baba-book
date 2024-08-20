@@ -50,11 +50,11 @@ nav a {
     font-weight: 500;
     text-decoration: none;
     text-transform: uppercase;
-    transition: all .5s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 nav a:hover {
-    color: blue;
+    color: cornflowerblue;
     transform: translateY(-5px);
 }
 
